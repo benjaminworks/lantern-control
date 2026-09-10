@@ -1,0 +1,54 @@
+{
+  "name": "Imported Lantern Control",
+  "archetype": "Lantern Control",
+  "version": "Whir/Traditional",
+  "mainboard": {
+    "cards": [
+      { "name": "Profane Tutor", "count": 4 },
+      { "name": "Duress", "count": 3 },
+      { "name": "Surgical Extraction", "count": 2 },
+      { "name": "Thoughtseize", "count": 4 },
+      { "name": "Assassin's Trophy", "count": 3 },
+      { "name": "Mishra's Bauble", "count": 4 },
+      { "name": "Codex Shredder", "count": 4 },
+      { "name": "Lantern of Insight", "count": 4 },
+      { "name": "Ghoulcaller's Bell", "count": 1 },
+      { "name": "Pixis of Pandemonium", "count": 1 },
+      { "name": "Grafdigger's Cage", "count": 1 },
+      { "name": "Pithing Needle", "count": 2 },
+      { "name": "The Underworld Cookbook", "count": 1 },
+      { "name": "Crucible of Worlds", "count": 1 },
+      { "name": "Ensnaring Bridge", "count": 4 },
+      { "name": "Academy Ruins", "count": 1 },
+      { "name": "Blooming Marsh", "count": 4 },
+      { "name": "Fomori Vault", "count": 1 },
+      { "name": "Forest", "count": 1 },
+      { "name": "Swamp", "count": 2 },
+      { "name": "Inventor's Fair", "count": 1 },
+      { "name": "Glimmervoid", "count": 1 },
+      { "name": "Spire of Industry", "count": 4 },
+      { "name": "The Mycocything Gardens", "count": 3 },
+      { "name": "Urza's Saga", "count": 4 }
+    ]
+  },
+  "sideboard": {
+    "cards": [
+      { "name": "Elixer of Immortality", "count": 1 },
+      { "name": "Haywire Mite", "count": 1 },
+      { "name": "Surgical Extraction", "count": 1 },
+      { "name": "Vexing Bauble", "count": 1 },
+      { "name": "Collective Brutality", "count": 2 },
+      { "name": "Cursed Totem", "count": 1 },
+      { "name": "Damping Sphere", "count": 2 },
+      { "name": "Torpor Orb", "count": 1 },
+      { "name": "Ashiok, Dream Render", "count": 2 },
+      { "name": "Leyline of Sanctity", "count": 2 },
+      { "name": "Emrakul, The Aeons Torn", "count": 1 },
+      { "name": "Pithing Needle", "count": 1 },
+      { "name": "Stone of Erech", "count": 1 },
+      { "name": "Blood Moon", "count": 1 },
+      { "name": "Crucible of Worlds", "count": 1 },
+      { "name": "Necromentia", "count": 1 }
+    ]
+  }
+}

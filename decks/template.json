@@ -1,0 +1,15 @@
+{
+  "name": "Deck Name",
+  "archetype": "Lantern Control",
+  "version": "Whir/Traditional/Night Light",
+  "mainboard": {
+    "cards": [
+      { "name": "Ensnaring Bridge", "count": 4 }
+    ]
+  },
+  "sideboard": {
+    "cards": [
+      { "name": "Leyline of Sanctity", "count": 3 }
+    ]
+  }
+}
