@@ -1,4 +1,11 @@
-archetype,meta_share_percentage,key_matchups,sideboard_priority
-Aggro,15.0,low,high
-Control,10.0,high,medium
-Combo,20.0,medium,high
+archetype,meta_share_percentage,classification,priority_sideboard
+"Boros / Mardu Energy",13.5,Aggro,"Torpor Orb, Cursed Totem, Stone of Erech, Leyline of Sanctity"
+"Eldrazi Breach / Ramp",9.0,"Big Mana / Combo","Damping Sphere, Blood Moon, Pithing Needle"
+"Dimir Murktide / Frog",8.0,Tempo,"Stone of Erech, Ashiok, Surgical Extraction"
+"Mono-Black Necro",7.0,"Midrange / Combo","Leyline of Sanctity, Torpor Orb, Vexing Bauble"
+"Jeskai Control",6.5,Control,"Pithing Needle, Surgical Extraction, Necromentia"
+"Ruby Storm",5.5,Combo,"Damping Sphere, Leyline of Sanctity, Vexing Bauble"
+"Amulet Titan",4.5,Big Mana,"Damping Sphere, Blood Moon, Pithing Needle"
+"Golgari Yawgmoth",4.5,"Creature Combo","Cursed Totem, Torpor Orb, Grafdigger's Cage"
+"Domain Zoo",3.5,Aggro,"Blood Moon, Ensnaring Bridge"
+"Living End",3.5,Combo,"Stone of Erech, Ashiok, Surgical Extraction, Damping Sphere"

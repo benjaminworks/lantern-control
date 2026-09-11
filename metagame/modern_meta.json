@@ -1,0 +1,72 @@
+[
+  {
+    "archetype": "Boros / Mardu Energy",
+    "meta_share": 13.5,
+    "classification": "Aggro",
+    "key_cards": ["Guide of Souls", "Amped Raptor", "Ajani, Nacatl Pariah", "Phlage, Reborn of Truth"],
+    "priority_sideboard": ["Torpor Orb", "Cursed Totem", "Stone of Erech", "Leyline of Sanctity"]
+  },
+  {
+    "archetype": "Eldrazi Breach / Ramp",
+    "meta_share": 9.0,
+    "classification": "Big Mana / Combo",
+    "key_cards": ["Through the Breach", "Devourer of Destiny", "Ugin's Labyrinth"],
+    "priority_sideboard": ["Damping Sphere", "Blood Moon", "Pithing Needle"]
+  },
+  {
+    "archetype": "Dimir Murktide / Frog",
+    "meta_share": 8.0,
+    "classification": "Tempo",
+    "key_cards": ["Psychic Frog", "Murktide Regent", "Orcish Bowmasters"],
+    "priority_sideboard": ["Stone of Erech", "Ashiok, Dream Render", "Surgical Extraction"]
+  },
+  {
+    "archetype": "Mono-Black Necro",
+    "meta_share": 7.0,
+    "classification": "Midrange / Combo",
+    "key_cards": ["Necrodominance", "Soul-Spike", "Grief", "The One Ring"],
+    "priority_sideboard": ["Leyline of Sanctity", "Torpor Orb", "Vexing Bauble"]
+  },
+  {
+    "archetype": "Jeskai Control",
+    "meta_share": 6.5,
+    "classification": "Control",
+    "key_cards": ["The One Ring", "Phlage, Reborn of Truth", "Counterspell"],
+    "priority_sideboard": ["Pithing Needle", "Surgical Extraction", "Necromentia"]
+  },
+  {
+    "archetype": "Ruby Storm",
+    "meta_share": 5.5,
+    "classification": "Combo",
+    "key_cards": ["Ruby Medallion", "Ral, Monsoon Mage", "Grapeshot"],
+    "priority_sideboard": ["Damping Sphere", "Leyline of Sanctity", "Vexing Bauble"]
+  },
+  {
+    "archetype": "Amulet Titan",
+    "meta_share": 4.5,
+    "classification": "Big Mana",
+    "key_cards": ["Primeval Titan", "Amulet of Vigor", "Boseiju, Who Endures"],
+    "priority_sideboard": ["Damping Sphere", "Blood Moon", "Pithing Needle"]
+  },
+  {
+    "archetype": "Golgari Yawgmoth",
+    "meta_share": 4.5,
+    "classification": "Creature Combo",
+    "key_cards": ["Yawgmoth, Thran Physician", "Grist, the Hunger Tide", "Chord of Calling"],
+    "priority_sideboard": ["Cursed Totem", "Torpor Orb", "Grafdigger's Cage"]
+  },
+  {
+    "archetype": "Domain Zoo",
+    "meta_share": 3.5,
+    "classification": "Aggro",
+    "key_cards": ["Scion of Draco", "Leyline of the Guildpact", "Territorial Kavu"],
+    "priority_sideboard": ["Blood Moon", "Ensnaring Bridge"]
+  },
+  {
+    "archetype": "Living End",
+    "meta_share": 3.5,
+    "classification": "Combo",
+    "key_cards": ["Living End", "Shardless Agent"],
+    "priority_sideboard": ["Stone of Erech", "Ashiok, Dream Render", "Surgical Extraction", "Damping Sphere"]
+  }
+]
