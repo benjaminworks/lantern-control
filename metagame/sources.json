@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "name": "MTGGoldfish Modern Metagame",
+      "type": "aggregator",
+      "url": "https://www.mtggoldfish.com/metagame/modern#paper",
+      "frequency": "daily",
+      "description": "Aggregates recent tournament results and league finishes to show general archetype shares, price trends, and sample decklists.",
+      "value_to_lantern": "Identifies the macro-level composition of the format (e.g., whether aggro, control, or combo is dominating) to adjust the mainboard/sideboard ratio of Ensnaring Bridges and lock pieces."
+    },
+    {
+      "name": "MTGO Official Standings",
+      "type": "official_results",
+      "url": "https://www.mtgo.com/decklists",
+      "frequency": "weekly",
+      "description": "Official listings of Magic Online (MTGO) Challenges, Qualifiers, and 5-0 League decklists published directly by Daybreak Games.",
+      "value_to_lantern": "The most hyper-competitive source of online metagame trends. Challenge results capture the cutting-edge builds and sideboard trends of the tier-1 decks."
+    },
+    {
+      "name": "MTGTop8 Modern Section",
+      "type": "aggregator",
+      "url": "https://www.mtgtop8.com/format?f=MO",
+      "frequency": "daily",
+      "description": "An extensive database aggregating both digital (MTGO) and global paper events, categorized cleanly with deck download options.",
+      "value_to_lantern": "Highly efficient for downloading specific archetype files (.dec, .txt) to feed into custom simulator or analysis scripts."
+    },
+    {
+      "name": "Melee.gg",
+      "type": "tournament_platform",
+      "url": "https://melee.gg/Tournament/Search",
+      "frequency": "on_event",
+      "description": "The primary platform used to run paper Regional Championships, RCQs, and major independent circuits (such as Star City Games).",
+      "value_to_lantern": "Provides comprehensive swiss-round standings and exact match-up win rates, exposing decks that are highly represented but performing poorly vs. decks that are underrepresented but overperforming."
+    },
+    {
+      "name": "Lantern Control Discord",
+      "type": "community",
+      "url": "https://discord.gg/lantern-control-community-link",
+      "frequency": "realtime",
+      "description": "A dedicated Discord community focused on the design, tuning, and strategic play of Lantern Control.",
+      "value_to_lantern": "Real-time discussion on card choices, micro-optimizations, matchup guides, and sideboard configurations from experienced archetype specialists."
+    },
+    {
+      "name": "Moxfield Public Search",
+      "type": "deck_database",
+      "url": "https://www.moxfield.com/decks/public?filter=lantern-control",
+      "frequency": "weekly",
+      "description": "The largest and most modern deck-building database where players post active lists and detailed primers.",
+      "value_to_lantern": "Useful for detecting experimental tech, new card inclusions from upcoming sets, or community consensus on card ratios."
+    },
+    {
+      "name": "Hareruya Modern Decklists",
+      "type": "paper_results",
+      "url": "https://www.hareruyamtg.com/en/deck/search",
+      "frequency": "daily",
+      "description": "Decklists and standings from Japan's largest MTG tournament organizer and retailer.",
+      "value_to_lantern": "Historically, the Japanese Modern metagame is highly innovative, often brewing unique control/prison variations. Excellent for uncovering non-standard/unconventional tech."
+    },
+    {
+      "name": "Reddit ModernMagic",
+      "type": "community",
+      "url": "https://www.reddit.com/r/ModernMagic/",
+      "frequency": "daily",
+      "description": "A community discussion board containing tournament reports, metagame reviews, and format complaints/sentiment.",
+      "value_to_lantern": "Helps track format sentiment, hate-card trends (e.g., if players are registering more Force of Vigor or Haywire Mite in their sideboards), and overall meta adaptations."
+    }
+  ]
+}
